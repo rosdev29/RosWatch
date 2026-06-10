@@ -240,10 +240,10 @@ Truy cập: [http://localhost:3000/client](http://localhost:3000/client)
 
 ---
 
-## Tác giả
+# RosWatch
 
-| Họ và tên | Vai trò |
-|-----------|---------|
-| **Lê Triệu Duy** | Developer |
+Developed by Lê Triệu Duy.
+
+Licensed under GPL-3.0.
 
 *Đồ án môn Thương mại điện tử — Trường Đại học Giao thông Vận tải TP. HCM*
